@@ -1,6 +1,6 @@
 # Interpretor
-Similar to the python interpretor, solve
-arithmetic, trigonometric and logarithmic expressions; to store
+Similar to the python interpretor, solves
+arithmetic, trigonometric and logarithmic expressions; stores
 and process variables and functions.
 ---
 Functionalities:
