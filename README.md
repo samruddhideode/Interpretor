@@ -40,4 +40,5 @@ feature of Java.
 Function/Variable/File not found, Use of unknown symbols.
 4. User Interface: Prompts user to enter input using specific
 keywords like Func, import, exit.
-***Run UserInterface.java to test the working
+----
+***Run UserInterface.java to test the working***
