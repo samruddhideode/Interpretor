@@ -1,5 +1,5 @@
 # Interpretor
-Problem Statement : Creating a scientific calculator to solve
+Similar to the python interpretor, solve
 arithmetic, trigonometric and logarithmic expressions; to store
 and process variables and functions.
 ---
