@@ -44,5 +44,5 @@ Function/Variable/File not found, Use of unknown symbols.
 4. User Interface: Prompts user to enter input using specific
 keywords like Func, import, exit.
 ----
-<td><img src="pic1.PNG" width=auto height=auto></td>
+<td><img src="https://github.com/samruddhideode/Interpretor/blob/main/pic.PNG" width=auto height=auto></td>
 ***Run UserInterface.java to test the working***
